@@ -1,0 +1,403 @@
+/*Rodrigo Palominos======================================================CSS-CUSTOM*/
+/*Padding Left=====================================================================*/
+.padd-l-5{
+	padding-left: 5%
+}
+/*=================================================================================*/
+.padd-l-10{
+	padding-left: 10%
+}
+/*=================================================================================*/
+.padd-l-15{
+	padding-left: 15%
+}
+/*=================================================================================*/
+.padd-l-20{
+	padding-left: 20%
+}
+/*=======================================================================CSS-CUSTOM*/
+/*Padding Right====================================================================*/
+.padd-r-5{
+	padding-right: 5%
+}
+/*=================================================================================*/
+.padd-r-10{
+	padding-right: 10%
+}
+/*=================================================================================*/
+.padd-r-15{
+	padding-right: 15%
+}
+/*=================================================================================*/
+.padd-r-20{
+	padding-right: 20%
+}
+/*=======================================================================CSS-CUSTOM*/
+/*Padding Left&Right===============================================================*/
+.padd-lr-5{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+/*=================================================================================*/
+.padd-lr-10{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+/*=================================================================================*/
+.padd-lr-15{
+	padding-left: 15%;
+	padding-right: 15%;
+}
+/*=================================================================================*/
+.padd-lr-20{
+	padding-left: 20%;
+	padding-right: 20%;
+}
+/*=======================================================================CSS-CUSTOM*/
+/*Width !important=================================================================*/
+.width100{
+	width: 100% !important;
+}
+/*=================================================================================*/
+.width90{
+	width: 90% !important;
+}
+/*=================================================================================*/
+.width80{
+	width: 80% !important;
+}
+/*=================================================================================*/
+.width70{
+	width: 70% !important;
+}
+/*=================================================================================*/
+.width60{
+	width: 60% !important;
+}
+/*=================================================================================*/
+.width50{
+	width: 50% !important;
+}
+/*=================================================================================*/
+.width40{
+	width: 40% !important;
+}
+/*=================================================================================*/
+.width30{
+	width: 30% !important;
+}
+/*=================================================================================*/
+.width20{
+	width: 20% !important;
+}
+/*=================================================================================*/
+.width10{
+	width: 10% !important;
+}
+/*=================================================================================*/
+.margin-0{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+/*=================================================================================*/
+.row-separador{
+	width: 100%;
+	height: 5px;
+	background-color: #47A3DA;
+	margin-right: 0px;
+    margin-left: 0px;
+}
+/*=================================================================================*/
+.cont-body-1{
+	width: 100%;
+	padding-left: 14%;
+	padding-right: 14%;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+/*=================================================================================*/
+.cont-body-2{
+	width: 100%;
+	padding-left: 14%;
+	padding-right: 14%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+/*=================================================================================*/
+.nav-padd{
+	padding-left: 1% !important;
+	padding-right: 1% !important;
+	padding-top: 0px;
+}
+/*=================================================================================*/
+.menu-header{
+	background-color: #4b4b4b;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: large;
+	text-align: left;
+	border-bottom-color: #1e1e1e;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+/*=================================================================================*/
+.menu-body{
+	background-color: #4b4b4b;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+/*=================================================================================*/
+.btn-metro-1{
+	border-radius: 0px;
+	text-align: right;
+	font-size: smaller;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #222222;
+	color: white;
+	width: 100%;
+}
+/*=================================================================================*/
+.btn-metro-1:hover, btn-metro-1:focus{
+	background-color: #7BC142;
+	color: white;
+}
+/*=================================================================================*/
+.cont-header{
+	background-color: #20376D;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: large;
+	text-align: right;
+	border-bottom-color: #1e1e1e;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+/*=================================================================================*/
+.cont-body{
+	background-color: #E4E5E6;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	color: black;
+	font-size: small;
+}
+/*=================================================================================*/
+.pag-footer{
+  width:100%;
+  margin-bottom: 0px;
+  background-color: #222222;
+  z-index: 1;
+   margin-left: 0px;
+   margin-right: 0px;
+   padding-left: 5px;
+   padding-right: 5px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+
+.botonnav2{
+	color: white;
+	font-weight: bold;
+	font-size: 12px !important;
+	padding-bottom: 10px !important;
+	padding-top: 20px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+.botonnav{
+	font-size: 12px;
+	color: white;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+
+}
+
+.botonnav3{
+	font-size: 12px !important;
+	color: white !important;
+	font-weight: bold !important;
+}
+
+.botonnav3:hover, .botonnav3:focus{
+	font-size: 12px !important;
+	font-weight: bold !important;
+	background-color: #333333 !important;
+	color: white !important;
+	border-color: #7BC142;
+	border-bottom-width: 5px;
+	border-style: solid;
+	border-left-width: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	margin-bottom: -5px;
+}
+
+.btn-drop{
+    padding-top: 20px !important;
+    padding-bottom: 10px !important;
+}
+.botonnav:hover, .botonnav:focus{
+	background-color: #7BC142 !important;
+	color: #a3e69b !important;
+}
+.botonnav2:hover, .botonnav2:focus{
+	background-color: #333333 !important;
+	color: white !important;
+	border-color: #7BC142;
+	border-bottom-width: 5px;
+	border-style: solid;
+	border-left-width: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	margin-bottom: -5px;
+}
+
+.nav-phone{
+	background-color: #222222;
+	color: white;
+}
+
+.nav-phone:hover, .nav-phone:focus{
+	background-color: #7BC142 !important;
+	color: #222222 !important;
+}
+
+.padding-0{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.borde-gris{
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+}
+.botonnav2active{
+	background-color: white !important;
+	color: #7BC142 !important;
+	font-weight: bold;
+	font-size: 14px !important;
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+.btn-metro-2{
+	border-radius: 0px;
+	background-color: #7BC142;
+	color: white;
+	width: 100%;
+	border-width: 0px;
+	font-size: 14px !important;
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+.drop-metro{
+	border-radius: 0px;
+	background-color: white;
+	color: black;
+	width: 250px;
+	min-width: 250px;
+}
+
+.drop-item:hover, .drop-item:focus{
+	background-color: #7BC142 !important;
+	color: white !important;
+}
+
+.progbar{
+	height: 28px;
+	border-radius: 0px;
+}
+
+.formitems{
+	width: 100%;
+	border-color: #7BC142;
+	border-width: 1px;
+	border-radius: 0px;
+	border-style: solid;
+	font-size: 16px;
+}
+
+.formlabels{
+    background-color: #7BC142;
+    color: white;
+    font-size: 16px;
+}
+
+.drop2{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 14px;
+    width: 220px;
+}
+
+.drop-metro-2{
+	border-radius: 0px;
+	background-color: white;
+	color: black;
+	width: 220px;
+	min-width: 220px;
+}
+
+.btn-metro-3{
+	border-radius: 0px;
+	background-color: #7BC142;
+	color: white;
+	border-width: 0px;
+	font-size: 14px !important;
+	padding-top: 6px;
+	font-weight: bold;
+	height: 30px;
+}
+
+.aviso{
+	background-color: #7BC142;
+	color: white;
+}
+
+.radius0{
+	border-radius: 0px;
+}
+
+.dropphonemenu{
+	background-color: #7BC142;
+	margin-top: 0px;
+	border-bottom-width: 0px;
+	margin-bottom: 0px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	margin-right: 0px;
+	border-radius: 0px;
+	width: 55px;
+	height: 53px;
+}
+
+.droplogo{
+	vertical-align: middle;
+	float: right;
+	padding-bottom: 0px;
+	padding-top: 10px;
+	padding-right: 20px;
+}
